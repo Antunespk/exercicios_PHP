@@ -20,7 +20,9 @@
     $salario = 2700;
 
     //mostra na tela
-    echo "O nome do aluno é: " $nome "<br>" "A idade do aluno é: " .$idade "<br>" "A renda é: " .$salario; 
+    echo "O nome do aluno é: ".$nome;
+    echo "<br>" "A idade do aluno é: " .$idade
+    echo "<br>" "A renda é: " .$salario; 
 
 ?>
 </body>
